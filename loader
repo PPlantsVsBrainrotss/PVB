@@ -1,6 +1,6 @@
 local player = game.Players.LocalPlayer
 
-local discordLink = "https://discord.gg/9ZERN8Q9Jx"
+local discordLink = "https://discord.gg/eKGpu34j2D"
 
 player:Kick("PVB has been DISCONTINUED\nJoin the Discord Link\nCopied to your clipboard")
 
